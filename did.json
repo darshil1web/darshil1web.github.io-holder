@@ -10,7 +10,7 @@
       "id": "did:web:darshil1web.github.io:holder#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:darshil1web.github.io:holder",
-      "publicKeyBase58": "4F1g4bTkeiZbTKsrvMBDMccCXYbDfkfYHVG2MjFD8mFJ"
+      "publicKeyBase58": "EqQtaKBbasd8d46wyXuHA635M3CMrkAWNfwzTtTeCg3E"
     }
   ],
   "authentication": [
