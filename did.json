@@ -4,28 +4,28 @@
     "https://w3id.org/security/suites/jws-2020/v1",
     "https://w3id.org/security/suites/ed25519-2020/v1"
   ],
-  "id": "did:web:darshil1web.github.io:holder",
+  "id": "did:web:darshil1web.github.io:dkholder",
   "verificationMethod": [
     {
-      "id": "did:web:darshil1web.github.io:holder#key-1",
+      "id": "did:web:darshil1web.github.io:dkholder#key-1",
       "type": "Ed25519VerificationKey2018",
-      "controller": "did:web:darshil1web.github.io:holder",
+      "controller": "did:web:darshil1web.github.io:dkholder",
       "publicKeyBase58": "8xwrn296NLH3DnjydSJBwpJVExnhtSoyEV7HuHdMYuE4"
     }
   ],
   "authentication": [
-    "did:web:darshil1web.github.io:holder#key-1"
+    "did:web:darshil1web.github.io:dkholder#key-1"
   ],
   "assertionMethod": [
-    "did:web:darshil1web.github.io:holder#key-1"
+    "did:web:darshil1web.github.io:dkholder#key-1"
   ],
   "service": [
     {
-      "id": "did:web:darshil1web.github.io:holder#did-communication",
+      "id": "did:web:darshil1web.github.io:dkholder#did-communication",
       "type": "did-communication",
       "serviceEndpoint": "http://192.168.1.9:9064",
       "recipientKeys": [
-        "did:web:darshil1web.github.io:holder#key-1"
+        "did:web:darshil1web.github.io:dkholder#key-1"
       ],
       "routingKeys": [],
       "accept": [
